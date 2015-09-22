@@ -118,9 +118,9 @@ Generating : Signal Layer 1
 
 Used DCodes :
     D74
+    D75
     D76
     D77
-    D78
     D79
     D80
     D81
@@ -156,8 +156,9 @@ Generating : Signal Layer 2
 
 
 Used DCodes :
-    D75
+    D74
     D77
+    D78
     D79
     D80
     D81
@@ -227,9 +228,9 @@ Generating : Top Overlay
 
 Used DCodes :
     D74
+    D75
     D76
     D77
-    D78
     D79
     D100
     D101
@@ -252,7 +253,7 @@ Generating : Top Paste
 
 Used DCodes :
     D10
-    D12
+    D11
     D13
     D14
     D15
@@ -332,7 +333,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D11
+    D12
     D22
     D79
     D105
